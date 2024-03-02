@@ -1,14 +1,14 @@
 # **CURRICULUM VITAE**
-## **Samuel M. Owens**
-### **PhD Biology Student**
-[Website](https://sites.temple.edu/smowens/) | [Email](mailto:sam.owens@temple.edu)
-- _Integrative Ecology Lab_ 
-- Department of Biology | Center for Biodiversity
+## **Constanca Dimas**
+### **Undergratuate student at Temple University**
+[Website](https://owlsports.com/sports/womens-fencing/roster/constan%C3%A7a-dimas/16714)| [Email](tuo89612@temple.edu)
+- _electrical Engineering Lab_ 
+- Department of Engineering |
 - Temple University
 
 
 ## Education
-**Temple University | PhD Biology**
+**Temple University**
 
 *Spring 2022 - Current*
 - Graduate Advisor: Matthew Helmus, PhD
